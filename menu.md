@@ -1,6 +1,6 @@
 ### Viénnoiseries Préérées
 
-- Pain au chocolat
-- Pain au raisin
-- Croissant
-- Chouquettes
+- Pain au chocolat : 10e
+- Pain au raisin : 12e
+- Croissant : 1e
+- Chouquettes : 12e
